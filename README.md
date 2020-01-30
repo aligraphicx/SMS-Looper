@@ -1,4 +1,4 @@
 # SMS-Looper
 
 
-<img src="Screenshoot.png" height="100" width="100"/>
+<img src="Screenshot.jpg" height="620" width="300"/>
